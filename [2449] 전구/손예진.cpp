@@ -5,8 +5,7 @@
 
 using namespace std;
 
-//dp[i][j] = bulb[i]의 색깔로 i ~ j의 전구 색상을 통일시키기 위해 필요한 최소 변경 횟수
-int N, K, bulb[201], dp[201][201];
+int N, K, bulb[201], dp[201][201];	//dp[i][j]: bulb[i]의 색깔로 i ~ j의 전구 색상을 통일시키기 위해 필요한 최소 변경 횟수
 
 int SetColor(int start, int end) {
 	//자기자신 - 색상 변경할 필요 없음
