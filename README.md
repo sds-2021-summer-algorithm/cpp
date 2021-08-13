@@ -19,17 +19,30 @@
 ### 스터디 진행
 - 매주 금요일 21:00 AM ~ 23:00 AM 스터디 진행
 - 해당 주 발표자가 알고리즘 선정 후 발표 & 전 주 알고리즘 공통문제 코드 리뷰
-- 알고리즘 발표자는 최소한 수요일까지  주제 선정(최소한의 준비를 위해)
-- 금요일 스터디 이후 일요일까지 3문제 선정해서 Slack에 공지
-    - 각 문제는 백준 기준 Silver, Gold, Platinum (프로그래머스 기준 Level 2, 3, 4)
+- 발표자 할일
+    1. 최소한 수요일까지 주제 선정(최소한의 준비를 위해)
+    1. 금요일 스터디 이후 일요일까지 공통문제 3문제 선정해서 Slack에 공지 
+    1. 각 문제는 백준 기준 Silver, Gold, Platinum (프로그래머스 기준 Level 2, 3, 4)
 - 코드 리뷰 방법 : 각자 어떻게 풀었는지? + 어느 부분에서 어려움을 느꼈는지 + 애매한 부분
+- 발표 순서 : 
+    1. 박승희
+    1. 윤연상
+    1. 장민수
+    1. 홍영주
+    1. 최정훈
+    1. 한건욱
+    1. 손예진
 
+### 단기 목표
+
+- 7주동안 꾸준히 진행!
 
 ### 추천 문제집
-[삼성 SW 역량 테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152)
+- [삼성 SW 역량 테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152)
 
 
-
+### 일정 관리 
+- 추후 스프레드 시트 추가
 
 <!-- ### Member
 
@@ -93,9 +106,10 @@
 **윤연상** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/YeonsangYoon) | 
 **장민수** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/BuriGori) | 
 **홍영수** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/HongyeongJu) | 
+
 **최정훈** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/FezChoii) | 
-**한건욱** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/asci-00)
-**손예진** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/yjsohn)
+**한건욱** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/asci-00) |
+**손예진** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/yjsohn) |
 
 <br>
 <hr>
