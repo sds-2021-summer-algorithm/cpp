@@ -1,34 +1,31 @@
-
-[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
-
-## Java_Algorithm_Solution (2021.08.09 ~ )
+<img src="https://forthebadge.com/images/badges/made-with-c-plus-plus.svg" width="150px" height="33px" ></img>
+[<img src="https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge" width="150px" height="33px" ></img>](https://github.com/sds-2021-summer-algorithm/cpp/graphs/contributors)
+## C++_Algorithm_Solution (2021.08.13 ~ )
 
 ### Rule
-- **1일 1 commit**은 필수 (문제를 풀지 못해도 Commit은 필수)
-- 주말은 자유롭게
-- 벌금은 하루에 500원 (미정)
-
-- 폴더이름은 **문제사이트_번호_문제이름**
-- 파일 이름은 **닉네임.java**
-- 문제 Commit message는 **[닉네임] 문제이름**
-
-- 금요일 스터디 불참시 최소 전날에는 말하기
-- 사소한 것이라도 질문할 것이 있으면 Slack or Github Discussion에 질문 올리기
-
+- **1일 1 commit**은 필수!! (문제 풀지 못해도 commit은 필수!)
+    - 주말은 자유롭게
+    - 취업 관련 이슈는 면제, 해당 주 관리자에게 공지
+    - 이전 주 발표자가 다음주 commit 관리
+- 벌금은 500원
+    - 스프레드 시트에 기록 후 나중에 사용처가 생기면 걷어서 사용
+- Commit Rule
+    - commit message : 이름_날짜_커밋횟수 (ex. 윤연상_20218012_01)
+    - 폴더 이름 : [문제 번호] 문제이름
+    - 파일 이름 : 이름.cpp
+- 불참시 최소 전날에 공지하기
+- 질문은 Github Discussion에 작성 후 Slack에 Notice하기
 
 ### 스터디 진행
-- 매주 금요일 09:00 AM ~ 11:00 AM 스터디 진행
-- 금요일 스터디 이후 일요일까지 2문제 선정해서 ISSUE 발행하기
-- 각자 어떻게 풀었는지? + 어느 부분에서 어려움을 느꼈는지 + 애매한 부분
-- 문제 브랜치에 풀고나서 PR로 솔루션에 넣기
+- 매주 금요일 21:00 AM ~ 23:00 AM 스터디 진행
+- 해당 주 발표자가 알고리즘 선정 후 발표 & 전 주 알고리즘 공통문제 코드 리뷰
+- 알고리즘 발표자는 최소한 수요일까지  주제 선정(최소한의 준비를 위해)
+- 금요일 스터디 이후 일요일까지 3문제 선정해서 Slack에 공지
+    - 각 문제는 백준 기준 Silver, Gold, Platinum (프로그래머스 기준 Level 2, 3, 4)
+- 코드 리뷰 방법 : 각자 어떻게 풀었는지? + 어느 부분에서 어려움을 느꼈는지 + 애매한 부분
 
-### TO-DO
 
-- [ ] 이번주는 벌금 X + 다음주 회의에 벌금 어디에 쓸지 아이디어 생각하기
-
-- [ ] 각자 목표는 슬랙에 공지로
-
-### 풀고 있는 문제집
+### 추천 문제집
 [삼성 SW 역량 테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152)
 
 
@@ -39,31 +36,52 @@
 <table>
     <tr align="center">
         <td style="min-width: 100px;">
-            <a href="https://github.com/kl529">
-              <img src="https://github.com/kl529.png" width="100">
+            <a href="https://github.com/tmdgml-p">
+              <img src="https://github.com/tmdgml-p.png" width="100">
               <br />
-              <b> 리바 </b>
+              <b> 박승희 </b>
+            </a>
+        </td>
+                <td style="min-width: 100px;">
+            <a href="https://github.com/YeonsangYoon">
+              <img src="https://github.com/YeonsangYoon.png" width="100">
+              <br />
+              <b> 윤연상 </b>
+            </a>
+        </td>
+                <td style="min-width: 100px;">
+            <a href="https://github.com/BuriGori">
+              <img src="https://github.com/BuriGori.png" width="100">
+              <br />
+              <b> 장민수 </b>
+            </a>
+        </td>
+                <td style="min-width: 100px;">
+            <a href="https://github.com/HongyeongJu">
+              <img src="https://github.com/HongyeongJu.png" width="100">
+              <br />
+              <b> 홍영수 </b>
             </a>
         </td>
         <td style="min-width: 100px;">
-            <a href="https://github.com/harachoi">
-              <img src="https://github.com/harachoi.png" width="100">
+            <a href="https://github.com/FezChoi">
+              <img src="https://github.com/FezChoi.png" width="100">
               <br />
-              <b> 최하라 </b>
+              <b> 최정훈 </b>
             </a>
         </td>
         <td style="min-width: 100px;">
-            <a href="https://github.com/wjdgns7712">
-              <img src="https://github.com/wjdgns7712.png" width="100">
+            <a href="https://github.com/asci-00">
+              <img src="https://github.com/asci-00.png" width="100">
               <br />
-              <b> 황정훈(jh) </b>
+              <b> 한건욱 </b>
             </a>
         </td>
         <td style="min-width: 100px;">
-            <a href="https://github.com/yukyeongmin">
-              <img src="https://github.com/yukyeongmin.png" width="100">
+            <a href="https://github.com/yjsohn">
+              <img src="https://github.com/yjsohn.png" width="100">
               <br />
-              <b> yukyeongmin </b>
+              <b> 손예진 </b>
             </a>
         </td>
     </tr>
@@ -71,20 +89,15 @@
 
 ### Contributor
 
-**김가은** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/blingaeun) | 
-**김지원** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/kl529) | 
-**양은서** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/yess98) | 
-**유경민** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/yukyeongmin) | 
-**최하라** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/harachoi) | 
-**황정훈** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/wjdgns7712)
+**박승희** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/tmdgml-p) | 
+**윤연상** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/YeonsangYoon) | 
+**장민수** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/BuriGori) | 
+**홍영수** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/HongyeongJu) | 
+**최정훈** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/FezChoii) | 
+**한건욱** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/asci-00)
+**손예진** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/yjsohn)
 
 <br>
 <hr>
 <br>
-
-|Problem|Level|Solution|                                                                            김가은|김지원|양은서|유경민|최하라|황정훈|
-|-------|:---:|:------:|:---:|:---:|:---:|:---:|:---:|:---:|
-|[단절선](https://www.acmicpc.net/problem/11400)|P5|[Here](./solution/BOJ_11400_단절선)              |  -  |  O  |  O  |  O   |  O   |  O  |
-|[스타트와 링크](https://www.acmicpc.net/problem/14889)|S3|[Here](./solution/BOJ_14889_스타트와-링크) |  -  |  -  |  -  |  -   |  -   |  -  |
-|[구슬 탈출2](https://www.acmicpc.net/problem/13460)|G2|[Here](./solution/BOJ_13460_구슬-탈출2)      |  -  |  -  |  -  |  -   |  -   |  -  |
 <br>
