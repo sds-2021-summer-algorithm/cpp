@@ -26,7 +26,8 @@ int main() {
 
     int N, M;
     cin >> N >> M;
-
+    
+    // dynamic mem alloc
     edgeList = new Edge[M];
     parent = new int[N + 1];
 
@@ -65,10 +66,6 @@ int main() {
 
     // print result
     cout << costSum << '\n';
-
-    // flush
-    delete[] edgeList; 
-    delete[] parent; 
 
     return 0;
 }
