@@ -32,7 +32,6 @@
     1. 각 문제는 백준 기준 Silver, Gold, Platinum (프로그래머스 기준 Level 2, 3, 4)
 - 코드 리뷰 방법 : 각자 어떻게 풀었는지? + 어느 부분에서 어려움을 느꼈는지 + 애매한 부분
 - 발표 순서 : 
-    1. 박승희
     1. 윤연상
     1. 장민수
     1. 홍영주
@@ -55,13 +54,6 @@
 
 <table>
     <tr align="center">
-        <td style="min-width: 100px;">
-            <a href="https://github.com/tmdgml-p">
-              <img src="https://github.com/tmdgml-p.png" width="100">
-              <br />
-              <b> 박승희 </b>
-            </a>
-        </td>
                 <td style="min-width: 100px;">
             <a href="https://github.com/YeonsangYoon">
               <img src="https://github.com/YeonsangYoon.png" width="100">
@@ -109,7 +101,6 @@
 
 ### Contributor
 
-**박승희** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/tmdgml-p) | 
 **윤연상** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/YeonsangYoon) | 
 **장민수** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/BuriGori) | 
 **홍영수** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/HongyeongJu) | 
