@@ -1,5 +1,5 @@
-<img src="https://forthebadge.com/images/badges/made-with-c-plus-plus.svg" width="150px" height="33px" ></img>
-[<img src="https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge" width="150px" height="33px" ></img>](https://github.com/sds-2021-summer-algorithm/cpp/graphs/contributors)
+<img src="https://img.shields.io/badge/MADE%20WITH-C%2B%2B-red?style=for-the-badge"></img>
+[<img src="https://img.shields.io/badge/contributor-6-brightgreen?style=for-the-badge"></img>](https://github.com/sds-2021-summer-algorithm/cpp/graphs/contributors)
 ## C++_Algorithm_Solution (2021.08.13 ~ )
 * * *
 ### Rule
