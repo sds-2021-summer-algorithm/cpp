@@ -36,7 +36,6 @@
     1. 장민수
     1. 홍영주
     1. 최정훈
-    1. 한건욱
     1. 손예진
 
 ### 단기 목표
@@ -83,19 +82,13 @@
             </a>
         </td>
         <td style="min-width: 100px;">
-            <a href="https://github.com/asci-00">
-              <img src="https://github.com/asci-00.png" width="100">
-              <br />
-              <b> 한건욱 </b>
-            </a>
-        </td>
-        <td style="min-width: 100px;">
             <a href="https://github.com/yjsohn">
               <img src="https://github.com/yjsohn.png" width="100">
               <br />
               <b> 손예진 </b>
             </a>
         </td>
+        
     </tr>
 </table> -->
 
@@ -106,7 +99,6 @@
 **홍영수** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/HongyeongJu) | 
 
 **최정훈** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/FezChoii) | 
-**한건욱** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/asci-00) |
 **손예진** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/yjsohn) |
 
 <br>
