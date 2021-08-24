@@ -18,8 +18,7 @@ int N;
 priority_queue<int> pq_low; //중간 값보다 작은 값들
 priority_queue<int, vector<int>, cmp> pq_high;  //중간 값보다 큰 값들
 
-//time complexity: N * log(N/2) *  log(N/2)
-
+//time complexity: N * log(N/2)
 int main() {
 	ios_base::sync_with_stdio(false);
 	cin.tie(0);
