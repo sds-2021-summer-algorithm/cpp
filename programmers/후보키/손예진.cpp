@@ -8,7 +8,7 @@ using namespace std;
 //해당 집합의 모든 부분 집합에 대한 탐색을 마친 뒤 해당 조합을 탐색하기 때문에, 자신의 부분 집합의 정답 여부만 확인하면 됨
 bool isPos(vector<int> ans, int target){     //최소성 확인
     for(int i = 0; i < ans.size(); i++){
-        if((ans[i] & target) == ans[i]){    //"ans[i] & target" 묶어주는 괄호 없으면 == 먼저 실행됨
+        if((ans[i] & target) == ans[i]){    //"ans[i] & target" 묶어주는 괄호 없으면 == 먼저 연산됨
            return false;
         }
     }
