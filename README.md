@@ -35,7 +35,6 @@
     1. 윤연상
     1. 장민수
     1. 홍영주
-    1. 최정훈
     1. 손예진
 
 ### 단기 목표
@@ -75,13 +74,6 @@
             </a>
         </td>
         <td style="min-width: 100px;">
-            <a href="https://github.com/FezChoi">
-              <img src="https://github.com/FezChoi.png" width="100">
-              <br />
-              <b> 최정훈 </b>
-            </a>
-        </td>
-        <td style="min-width: 100px;">
             <a href="https://github.com/yjsohn">
               <img src="https://github.com/yjsohn.png" width="100">
               <br />
@@ -97,8 +89,6 @@
 **윤연상** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/YeonsangYoon) | 
 **장민수** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/BuriGori) | 
 **홍영수** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/HongyeongJu) | 
-
-**최정훈** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/FezChoii) | 
 **손예진** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/yjsohn) |
 
 <br>
