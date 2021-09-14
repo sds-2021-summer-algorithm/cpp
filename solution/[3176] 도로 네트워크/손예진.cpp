@@ -5,8 +5,16 @@
 
 using namespace std;
 
+/*의문점: 왜 root를 1로 고정시키면 맞고, 임의로 정하면 틀리나
+* <idea>
+* LCA 점화식을 Min, Max 구하는데도 활용하기
+* Min[j][i] = min(Min[parent[j][i - 1]][i - 1], Min[j][i - 1]); 
+* -> 2^i번째 parent 사이에서의 min은 2^(i - 1)번째 parent사이에서의 min값과, 2^(i - 1)번째 parent의 2^(i - 1)번째 parent 사이에서의 min값 중 최소
+* -> Max도 마찬가지 원리
+*/
+
 int N, K, root;
-int indegree[100001], depth[100001], parent[100001][Pmax + 1], Min[100001][Pmax + 1], Max[100001][Pmax + 1];
+int depth[100001], parent[100001][Pmax + 1], Min[100001][Pmax + 1], Max[100001][Pmax + 1];
 vector<pair<int, int>> graph[100001];
 
 void SetDepth(int d, int p, int idx) {
@@ -16,13 +24,13 @@ void SetDepth(int d, int p, int idx) {
 		int next = graph[idx][i].first, len = graph[idx][i].second;
 		if (next == p)
 			continue;
-		Min[next][0] = Max[next][0] = len;
+		Min[next][0] = Max[next][0] = len;	//노드와 2^0번째 부모 사이의 Min과 Max는 직접 연결된 간선
 		SetDepth(d + 1, idx, next);
 	}
 }
 
 void SetParent() {
-	for (int i = 1; (1 << i) <= N; i++) {
+	for (int i = 1; (1 << i) < N; i++) {
 		for (int j = 1; j <= N; j++) {
 			parent[j][i] = parent[parent[j][i - 1]][i - 1];
 			Min[j][i] = min(Min[parent[j][i - 1]][i - 1], Min[j][i - 1]);
@@ -72,16 +80,9 @@ int main() {
 		cin >> a >> b >> c;
 		graph[a].push_back({ b, c });
 		graph[b].push_back({ a, c });
-		indegree[a]++; indegree[b]++;
-	}
-	for (int i = 1; i <= N; i++) {
-		if (indegree[i] == 2) {
-			root = i;
-			break;
-		}
 	}
 
-	SetDepth(0, 0, root);
+	SetDepth(0, 0, 1);
 	SetParent();
 
 	cin >> K;
