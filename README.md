@@ -34,7 +34,6 @@
 - 발표 순서 : 
     1. 윤연상
     1. 장민수
-    1. 홍영주
     1. 손예진
 
 ### 단기 목표
@@ -66,13 +65,6 @@
               <b> 장민수 </b>
             </a>
         </td>
-                <td style="min-width: 100px;">
-            <a href="https://github.com/HongyeongJu">
-              <img src="https://github.com/HongyeongJu.png" width="100">
-              <br />
-              <b> 홍영수 </b>
-            </a>
-        </td>
         <td style="min-width: 100px;">
             <a href="https://github.com/yjsohn">
               <img src="https://github.com/yjsohn.png" width="100">
@@ -88,7 +80,6 @@
 
 **윤연상** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/YeonsangYoon) | 
 **장민수** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/BuriGori) | 
-**홍영수** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/HongyeongJu) | 
 **손예진** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/yjsohn) |
 
 <br>
